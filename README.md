@@ -1,8 +1,6 @@
-### Hi there 👋
+### 嗨，你为什么那么努力？
 
-#### 嗨，你为什么那么努力？
-
-#### 因为我想去的地方很远，想买的东西很贵，喜欢的人很优秀！
+### 因为我想去的地方很远，想买的东西很贵，喜欢的人很优秀！
 <!--
 **LinHuangnan/LinHuangnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
